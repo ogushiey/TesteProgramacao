@@ -1,0 +1,9 @@
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\bin\Release\TesteProgramacao.exe.config
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\bin\Release\TesteProgramacao.exe
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\bin\Release\TesteProgramacao.pdb
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Release\TesteProgramacao.Form1.resources
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Release\TesteProgramacao.Properties.Resources.resources
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Release\TesteProgramacao.csproj.GenerateResource.cache
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Release\TesteProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Release\TesteProgramacao.exe
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Release\TesteProgramacao.pdb

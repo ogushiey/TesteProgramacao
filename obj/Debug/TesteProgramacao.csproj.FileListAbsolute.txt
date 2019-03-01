@@ -1,0 +1,10 @@
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\bin\Debug\TesteProgramacao.exe.config
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\bin\Debug\TesteProgramacao.exe
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\bin\Debug\TesteProgramacao.pdb
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.Form1.resources
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.Properties.Resources.resources
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.csproj.GenerateResource.cache
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.exe
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.pdb
+C:\Users\ogushiey\source\repos\TesteProgramacao\TesteProgramacao\obj\Debug\TesteProgramacao.csprojAssemblyReference.cache
